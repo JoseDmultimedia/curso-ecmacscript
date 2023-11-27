@@ -1,0 +1,16 @@
+{
+  "name": "curso-ecmacscript",
+  "version": "1.0.0",
+  "description": "Curso de ecmascript realizado con platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Jose David Garcia Diosa <garciadiosaj@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
